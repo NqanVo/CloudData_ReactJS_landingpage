@@ -1,5 +1,5 @@
-Used: ReactJS + Tailwind
-Basic Landing Page
+# Used: ReactJS + Tailwind
+# Basic Landing Page 
 
 
 # Getting Started with Create React App
