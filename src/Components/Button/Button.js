@@ -3,8 +3,8 @@ import React from 'react';
 const Button = (props) => {
     return (
         <button className={`
-        bg-[${props.ColorBg}] 
-        text-[${props.ColorText}] 
+        ${props.ColorBg}
+        ${props.ColorText}
         w-[200px] 
         rounded-md 
         p-2 
