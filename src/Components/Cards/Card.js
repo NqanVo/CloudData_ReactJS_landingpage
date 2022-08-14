@@ -15,7 +15,7 @@ const Card = (props) => {
                         ))
                     }
                 </ul>
-                <Button ColorBg='#00df9a' ColorText='#000000'>Get Trial</Button>
+                <Button ColorBg='bg-[#00df9a]' ColorText='text-[#000000]'>Get Trial</Button>
             </div>
         </div>
     );

@@ -21,7 +21,7 @@ const Hero = () => {
                 </Typed>
             </p>
             <p className='font-medium lg:text-2xl p-4 text-center text-gray-500'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quisquam vitae ad quas neque recusandae odio aperiam praesentium mollitia est eaque magnam architecto qui!</p>
-            <Button ColorBg='#00df9a' ColorText='#000000'>Get Started</Button>
+            <Button ColorBg='bg-[#00df9a]' ColorText='text-[#000000]'>Get Started</Button>
         </section>
     );
 };
