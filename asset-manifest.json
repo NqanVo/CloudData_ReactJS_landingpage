@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CloudData_ReactJS_landingpage/static/css/main.2100af1c.css",
+    "main.js": "/CloudData_ReactJS_landingpage/static/js/main.e999c95e.js",
+    "index.html": "/CloudData_ReactJS_landingpage/index.html",
+    "main.2100af1c.css.map": "/CloudData_ReactJS_landingpage/static/css/main.2100af1c.css.map",
+    "main.e999c95e.js.map": "/CloudData_ReactJS_landingpage/static/js/main.e999c95e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2100af1c.css",
+    "static/js/main.e999c95e.js"
+  ]
+}
